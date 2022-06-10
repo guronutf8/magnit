@@ -1,0 +1,4 @@
+ApiPort: 80
+DBHost: localhost
+DBLogin: postgres
+DBPassword: postgres
